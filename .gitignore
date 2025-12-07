@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+processed_data/
+dummy_data/
+dummy_mimic_data/
+*.pkl
+*.gz
